@@ -11,6 +11,6 @@ It is currently in development stage.
 ### Development Stages:
 
   * User Interface test branch
-      * For UI, jetpack compose will be used.
+      * For UI, jetpack compose will be used..
   * Music play stage.
       * This is will done with MVVM design with clean architeture in mind.
